@@ -1,0 +1,87 @@
+body {
+  font-family: Helvetica, monospace, serif;
+  text-align:center;
+}
+
+ul.nav a:hover { background-color: #687073 !important; }
+
+.outer {
+  padding: 0 0;
+}
+
+#home {
+  text-align:center;
+  background:url('http://static.vecteezy.com/system/resources/previews/000/101/241/non_2x/free-abstract-background-4-vector.jpg') no-repeat center center fixed;
+  background-size:cover;
+  height:100vh;
+  padding: 10% 0;
+  color:black;
+}
+
+#about {
+  background: #fafafa;
+  background: cover;
+  height: 100vh;
+  color:black;
+  text-align:center;
+  display: block;
+  padding-top: 5vh;
+}
+#about-text {
+  float: right;
+  text-align: center;
+  width: 50%;
+}
+
+#pic {
+  max-width: 25%;
+  height: auto;
+  border-radius:100%;
+  margin: auto;
+}
+
+#skill-img {
+  width: 10%;
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+  margin-top:10px;
+}
+
+#portfolio {
+  background:url('http://static.vecteezy.com/system/resources/previews/000/108/773/non_2x/abstract-linear-pattern-vector.jpg') no-repeat center center fixed;
+  background-size:cover;
+  padding: 10% 0;
+}
+
+#inner-portfolio {
+  align:center;
+  padding-left:40px;
+  padding-right:40px;
+}
+
+#proj {
+  width:auto;
+  height:auto;
+  max-width:50%;
+  min-width: 20%;
+  padding:20px;
+}
+
+#contact {
+  background-color:#fafafa;
+  background-size: cover;
+  padding: 10% 0;
+  color:black;
+  text-align:center;
+}
+
+.social-but {
+  margin-bottom:20px;
+}
+
+#end {
+  padding-bottom:70px;
+}
